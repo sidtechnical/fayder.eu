@@ -6,7 +6,7 @@
     <title>Fayder Florez Resume</title>
      <meta charset="utf-8"/>
      <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
-     <link rel="stylesheet" type="text/css" media="screen" href="css/onepage.css" />
+     <link rel="stylesheet" type="text/css" media="screen" href="css/print.css" />
      <link rel="stylesheet" type="text/css" media="print" href="css/onepage-print.css" />
 </head>
 
