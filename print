@@ -20,13 +20,16 @@
         
             <h1 class="fn">Fayder Flórez </h1>
             <span style="padding-right: 20px;">
-                http://github.com/fayder
+                 <i class="fa fa-github"> http://github.com/fayder</i>
             </span>
             <span style="padding-right: 20px;">
-                fayder.florez@gmail.com
+                <i class="fa fa-envelope-o"> fayder.florez@gmail.com</i>
             </span>
             <span style="padding-right: 20px;">
-                http://fayder.eu
+                <i class="fa fa-phone"> 0037258444596</i>
+            </span>
+            <span style="padding-right: 20px;">
+                <i class="fa fa-globe"> http://fayder.eu</i>
             </span>
         </div>
                 
