@@ -7,7 +7,7 @@
      <meta charset="utf-8"/>
      <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
      <link rel="stylesheet" type="text/css" media="screen" href="css/print.css" />
-     <link rel="stylesheet" type="text/css" media="print" href="css/onepage-print.css" />
+     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
 
 <body>
@@ -20,13 +20,13 @@
         
             <h1 class="fn">Fayder Flórez </h1>
             <span style="padding-right: 20px;">
-                <img src="images/GitHub-Mark-32px.png"/> http://github.com/fayder
+                http://github.com/fayder
             </span>
             <span style="padding-right: 20px;">
-                <img src="images/mail.png"/></a> fayder.florez@gmail.com
+                fayder.florez@gmail.com
             </span>
             <span style="padding-right: 20px;">
-                <img src="images/logo-web.png"/> http://fayder.eu
+                http://fayder.eu
             </span>
         </div>
                 
@@ -53,20 +53,21 @@
             
            <dt>Main Programming Languages</dt>
             <dd>
-                
-                <a href="http://www.oracle.com/technetwork/java/" class="skill-logo" title="Java">
-                    <img src="images/logo-java.png" alt="java logo" />
-                </a>
-                <a href="https://en.wikipedia.org/wiki/Javascript" class="skill-logo" title="Javascript">
-                    <img src="images/logo-js.png" alt="javascript image" />
-                </a>
-                <a href="" class="skill-logo" title="Python">
-                    <img src="images/logo-python.png" alt="python logo" />
-                </a>
-                <a href="http://dev.w3.org/html5/spec/" class="skill-logo" title="HTML5">
-                    <img src="images/logo-html5.png" alt="html5 logo" />
-                </a>
-               
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>
+                                Java <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
+                            </td>
+                            
+                            <td>JavaScript <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i></td>
+                        </tr>
+                        <tr>
+                            <td>Python <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i><i class="fa fa-star-o"></td>
+                            <td>HTML5 <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i></td>
+                        </tr>
+                    </tbody>
+                </table>               
             </dd>
 
             <dd class="clear"></dd>
@@ -145,18 +146,6 @@
 
             <dd class="clear"></dd>
 
-            <dt>Workplace Expectations</dt>
-            <dd>
-                <ul>
-                    <li>Allows me to keep gaining experience in Java, Python and Javascript Development</li>
-                    <li>Allows me to learn new technologies</li>
-                    <li>Gives me enough time to pursue personal projects</li>
-                    <li>Little or no bureaucracy</li>
-                </ul>
-            </dd>
-            
-            <dd class="clear"></dd>
-            
             <dt>Education</dt>
             <dd>
                 <h2><a href="http://www.unitecnologica.edu.co">Universidad Tecnológica de Bolívar</a> - Cartagena, Colombia</h2>
@@ -178,7 +167,7 @@
 
             <dd class="clear"></dd>
 
-            <dt>Organizations</dt>
+            <dt>Volunteer Experience</dt>
             <dd>
                 <h2>
                     <a href="http://aiesec.org">AIESEC in Colombia</a>
@@ -213,8 +202,8 @@
                 <p><i>"It is virtually impossible to understand biology outside the context of environment" - Robert Sapolsky</i></p>
                 <strong>Jogging</strong>
                 <p><i>"Jogging is the worst, Chris. I mean, I know it keeps you healthy, but God. At what cost?" - Anne Perkins (The Treaty)</i></p>
-                <p><img src="images/goodfil.ms.png"></img> http://goodfil.ms/fayder</p>
-                <p><img src="images/goodreads.png"></img> http://www.goodreads.com/fayder</p>
+                <p>http://goodfil.ms/fayder</p>
+                <p>http://www.goodreads.com/fayder</p>
             </dd>
 
             
