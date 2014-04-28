@@ -83,10 +83,10 @@
                             <td>jQuery</td>
                             <td>Bootstrap</td>
                             <td>BackboneJS</td>
-                            <td>Google Guice</td>
+                            <td>Spring</td>
                         </tr>
                         <tr>
-                            <td>Spring</td>
+                            <td>Google Guice</td>
                             <td>RESTEasy</td>
                             <td>Jersey</td>
                             <td>Hibernate</td>
