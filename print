@@ -119,7 +119,10 @@
                 </h2>
                 <ul>
                     <li>
-                        Python scripts to make HTTP/HTTPS requests; parse HTML, XML, JSON and persist data.
+                        Setting up Artifactory as Repository Management
+                    </li>
+                    <li>
+                        Python scripts to make HTTP/HTTPS requests; parse HTML, XML, JSON and persist data
                     </li>
                     <li>
                         Participating in architectural decisions regarding new and ongoing projects
@@ -137,7 +140,7 @@
                         Maintaining and extending a Build Automation Tool. Developing plugins to collect statistical information and to do various processes to the binaries and artifacts being built
                     </li>
                     <li>
-                        Backend and Frontend for small RESTful web apps.
+                        Backend and Frontend for different RESTful web apps.
                     </li>
                     <li>
                         Worked on a Web App for Task Management.
