@@ -60,14 +60,37 @@
                     <tbody>
                         <tr>
                             <td>
-                                Java <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i>
+                                Java 
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star-o" />
                             </td>
                             
-                            <td>JavaScript <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i></i><i class="fa fa-star-o"></i></td>
+                            <td>JavaScript 
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star-o" />
+                                <i class="fa fa-star-o" />
+                            </td>
                         </tr>
                         <tr>
-                            <td>Python <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></td>
-                            <td>HTML5 <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-o"></i></td>
+                            <td>Python 
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star-half-o" />
+                                <i class="fa fa-star-o" />
+                                <i class="fa fa-star-o" />
+                            </td>
+                            <td>HTML5 
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star" />
+                                <i class="fa fa-star-o" />
+                            </td>
                         </tr>
                     </tbody>
                 </table>               
@@ -80,8 +103,8 @@
                     <tbody>
                         <tr>
                             <td>Eclipse IDE</td>
-                            <td>jQuery</td>
                             <td>Bootstrap</td>
+                            <td>jQuery</td>
                             <td>BackboneJS</td>
                             <td>Spring</td>
                         </tr>
@@ -94,13 +117,12 @@
                         </tr>
                         <tr>
                             <td>PostgreSQL</td>
-                            <td>HSQLDB</td>
                             <td>Tomcat</td>
                             <td>Jetty</td>
                             <td>Subversion</td>
+                            <td>Git</td>
                         </tr>
                         <tr>
-                            <td>Git</td>
                             <td>Jira</td>
                             <td>SCRUM</td>
                         </tr>
@@ -114,13 +136,21 @@
             <dt>Experience</dt>
             <dd>
                 <h2>
+                    <a href="http://www.kn-portal.com/">Kuehne + Nagel</a>
+                    <span>Software Developer June 2014 - Present</span>
+                </h2>
+                <ul>
+                    <li>
+                        Maintaining and developing web-based software solutions for the logistics business
+                    </li>
+                </ul>
+            </dd>
+            <dd>
+                <h2>
                     <a href="http://zerotech.ee">ZERO Technologies OÜ</a>
                     <span>Software Developer Sep 2010 - May 2014</span>
                 </h2>
                 <ul>
-                    <li>
-                        Setting up Artifactory as Repository Management
-                    </li>
                     <li>
                         Python scripts to make HTTP/HTTPS requests; parse HTML, XML, JSON and persist data
                     </li>
@@ -128,16 +158,13 @@
                         Participating in architectural decisions regarding new and ongoing projects
                     </li>
                     <li>
-                        Writing Unit and Integration automated tests
-                    </li>
-                    <li>
-                        Participating in the planning and discussion of every sprint (release)
-                    </li>
-                    <li>
-                        Maintaining and extending a Build Automation Tool. Developing plugins to collect statistical information and to do various processes to the binaries and artifacts being built
+                        Writing automated unit and integration tests
                     </li>
                     <li>
                         Backend and Frontend for different RESTful web apps.
+                    </li>
+                    <li>
+                        Maintaining and extending a Build Automation Tool. Developing plugins to collect statistical information and to do various processes to the binaries and artifacts being built
                     </li>
                     <li>
                         Worked on a Web App for Task Management.
