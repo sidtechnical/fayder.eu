@@ -152,16 +152,10 @@
                 </h2>
                 <ul>
                     <li>
-                        Python scripts to make HTTP/HTTPS requests; parse HTML, XML, JSON and persist data
-                    </li>
-                    <li>
-                        Participating in architectural decisions regarding new and ongoing projects
-                    </li>
-                    <li>
-                        Writing automated unit and integration tests
-                    </li>
-                    <li>
                         Backend and Frontend for different RESTful web apps.
+                    </li>
+                    <li>
+                        Python scripts to make HTTP/HTTPS requests; parse HTML, XML, JSON and persist data
                     </li>
                     <li>
                         Maintaining and extending a Build Automation Tool. Developing plugins to collect statistical information and to do various processes to the binaries and artifacts being built
